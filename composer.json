@@ -38,7 +38,7 @@
     "phpunit/phpunit": "^4.8",
     "zendframework/zend-crypt": "^2.6",
     "mockery/mockery": "^0.9.4",
-    "codeclimate/php-test-reporter": "^0.3.0",
+    "codeclimate/php-test-reporter": "^0.3.0 || ^0.4.0",
     "defuse/php-encryption": "^2.0",
     "paragonie/halite": "^3.3"
   },
