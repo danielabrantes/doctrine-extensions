@@ -35,7 +35,7 @@
   "require-dev": {
     "doctrine/orm": ">=2.5.0",
     "doctrine/common": ">=2.5.0",
-    "phpunit/phpunit": "^4.8",
+    "phpunit/phpunit": "^4.8 || ^8.0",
     "zendframework/zend-crypt": "^2.6",
     "mockery/mockery": "^0.9.4",
     "codeclimate/php-test-reporter": "^0.3.0",
